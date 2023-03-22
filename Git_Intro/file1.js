@@ -5,3 +5,5 @@ console.log("hey we are learning git");
 //commit message
 // along with git commit we can provide message using -m
 //ex: git commit -m "commit message"
+//we use git checkout -b branchname to create a branch
+// making changes in gitbranch1
